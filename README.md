@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# 1. React TypeScript TailwindCSS Boilerplate
+
+## Environment
+
+- Node.js v20.12.2 (LTS)
+- npm v10.6.0
+
+
+# 2. Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
